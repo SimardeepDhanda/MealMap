@@ -1,1 +1,1 @@
-# MEALMAP is a web application designed to help McMaster University students plan their daily campus meals. It pulls daily menu data from the McMaster Nutrition Services, takes user goals and budget into account, and generates a personalized meal plan.
+MEALMAP is a web application designed to help McMaster University students plan their daily campus meals. It pulls daily menu data from the McMaster Nutrition Services, takes user goals and budget into account, and generates a personalized meal plan.
