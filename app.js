@@ -4,7 +4,7 @@ const mongoose = require('mongoose');
 const cors = require('cors');
 const planRoutes = require('./routes/planRoutes');
 const { getDailyMenu } = require('./services/mcMasterMenuService');
-const MenuItem = require('./models/menuItemModel');
+const MenuItem = require('./models/menuItemModel'); 
 
 const app = express();
 
