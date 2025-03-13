@@ -1,6 +1,6 @@
 // controllers/planController.js
 const User = require('../models/userModel');
-const MenuItem = require('../models/menuItemModel');
+const MenuItem = require('../models/menuItemModel'); 
 
 exports.generatePlan = async (req, res) => {
   try {
