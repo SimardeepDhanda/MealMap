@@ -1,7 +1,7 @@
 // src/App.js
 import React, { useState } from 'react';
 import UserForm from './components/UserForm';
-import PlanDisplay from './components/PlanDisplay';
+import PlanDisplay from './components/PlanDisplay'; 
 
 function App() {
   const [planResponse, setPlanResponse] = useState(null);
